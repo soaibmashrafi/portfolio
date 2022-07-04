@@ -1,7 +1,30 @@
+body{
+    padding: 20px,40px;
+    font-family: 'Nunito', sans-serif;
+}
+
 h1{
-    color:cadetblue;
+    
     font-size: 50px;
 }
-p{
-    color:blueviolet;
+.headercolor{
+    color: coral;
+}
+section{
+    display: flex;
+}
+.half{
+    width: 50%;
+    padding-left: 100px;
+}
+.half img{
+    width: 80%;
+    
+}
+.hire{
+    padding: 6px 10px;
+    color: aliceblue;
+    background-color: coral;
+    text-decoration: none;
+    border-radius: 6px;
 }
